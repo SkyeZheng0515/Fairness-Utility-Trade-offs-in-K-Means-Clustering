@@ -13,8 +13,10 @@ scikit-learn==1.5.1
 scikit-posthocs==0.17.1
 statsmodels==0.14.2
 
-# Datasets (MEPS loader)
+# Datasets
 aif360==0.6.1
+ucimlrepo==0.0.7
+requests==2.32.3
 
 # Visualisation
 matplotlib==3.9.2
