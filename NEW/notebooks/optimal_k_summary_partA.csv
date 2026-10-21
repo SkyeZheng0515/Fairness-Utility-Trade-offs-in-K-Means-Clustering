@@ -1,0 +1,12 @@
+Dataset,Elbow,Silhouette,Calinski,Davies,Gap,Stability,Approach2_k
+adult,4,5,2,10,2,2,2
+compas,5,10,2,10,2,2,2
+german,5,10,2,10,10,3,10
+credit,4,2,2,2,3,3,2
+law,4,3,2,3,10,2,3
+adult_race,4,5,2,10,2,2,2
+adult_combined,4,5,2,10,2,2,2
+compas_race,5,10,2,8,2,4,2
+compas_combined,5,10,2,8,2,4,2
+law_race,4,3,2,3,10,2,3
+law_combined,4,3,2,3,10,2,3

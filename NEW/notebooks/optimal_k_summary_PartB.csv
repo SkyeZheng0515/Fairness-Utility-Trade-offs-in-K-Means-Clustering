@@ -1,0 +1,8 @@
+Dataset,Elbow,Silhouette,Calinski,Davies,Gap,Stability,Approach2_k
+diabetes_gender,4,2,3,2,9,4,4
+diabetes_race,4,2,3,7,10,6,4
+diabetes_combined,4,2,3,7,10,4,4
+dutch_gender,10,2,9,10,10,10,10
+meps_gender,5,5,4,5,10,4,5
+meps_race,5,5,4,5,10,4,5
+meps_combined,5,5,4,5,10,4,5

@@ -1,0 +1,19 @@
+Configuration,Base Dataset,Analytic N,Features after One Hot Encoding,Sensitive Attribute,Group Sizes,Number of Groups,Excluded Columns
+D1_gender,Adult Income,30162,97,Gender,9782 over 20380,2,
+D1_race,Adult Income,30162,97,Race,4229 over 25933,2,
+D1_comb,Adult Income,30162,97,Gender and Race combined,1887 over 2342 over 7895 over 18038,4,
+D2_gender,COMPAS,9395,23,Gender,1933 over 7462,2,"name, first, last, compas_screening_date, dob, c_jail_in, c_jail_out, c_case_number, v_screening_date, screening_date"
+D2_race,COMPAS,7931,23,Race,3256 over 4675,2,"name, first, last, compas_screening_date, dob, c_jail_in, c_jail_out, c_case_number, v_screening_date, screening_date"
+D2_comb,COMPAS,7931,23,Gender and Race combined,790 over 2466 over 887 over 3788,4,"name, first, last, compas_screening_date, dob, c_jail_in, c_jail_out, c_case_number, v_screening_date, screening_date"
+D3_gender,German Credit,1000,61,Gender,310 over 690,2,
+D4_gender,Credit Default,30000,22,Gender,18112 over 11888,2,
+D5_gender,Law School,18692,9,Gender,8142 over 10550,2,
+D5_race,Law School,18692,9,Race,1201 over 17491,2,
+D5_comb,Law School,18692,9,Gender and Race combined,749 over 452 over 7393 over 10098,4,
+D6_gender,Diabetes 130 US,99492,892,Gender,53575 over 45917,2,
+D6_race,Diabetes 130 US,95309,888,Race,19210 over 76099,2,
+D6_comb,Diabetes 130 US,95309,888,Gender and Race combined,11728 over 7482 over 39689 over 36410,4,
+D7_gender,Dutch Census 2001,60420,10,Gender,30273 over 30147,2,
+D8_gender,MEPS 20,34655,20,Gender,18129 over 16526,2,
+D8_race,MEPS 20,34655,20,Race,11033 over 23622,2,
+D8_comb,MEPS 20,34655,20,Gender and Race combined,5942 over 5091 over 12187 over 11435,4,

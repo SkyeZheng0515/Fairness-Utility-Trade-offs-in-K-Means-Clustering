@@ -1,0 +1,6 @@
+Dataset,Approach 1 (Combined),Elbow,Silhouette,Calinski-Harabasz,Davies-Bouldin,Gap Statistic,Stability,Approach 2 (Majority)
+ADULT,5,6,5,5,9,10,2,5
+COMPAS,2,4,2,2,5,2,2,2
+GERMAN,6,5,6,2,7,10,2,2
+CREDIT,2,5,2,2,5,10,2,2
+LAW,4,4,4,2,4,10,3,4

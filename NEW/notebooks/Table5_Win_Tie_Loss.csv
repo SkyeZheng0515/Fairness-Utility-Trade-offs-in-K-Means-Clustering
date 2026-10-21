@@ -1,0 +1,25 @@
+Scenario,Method,Win,Tie,Loss
+Utility (S1),Fairlet,2,0,70
+Utility (S1),BFKM,13,2,57
+Utility (S1),CCF,3,0,69
+Utility (S1),PP-NFP,8,30,34
+Utility (S1),PP-Gini,0,32,40
+Utility (S1),Rawlsian,10,20,42
+Utility (S2),Fairlet,2,0,70
+Utility (S2),BFKM,24,2,46
+Utility (S2),CCF,9,1,62
+Utility (S2),PP-NFP,12,33,27
+Utility (S2),PP-Gini,11,32,29
+Utility (S2),Rawlsian,19,14,39
+Fairness (S1),Fairlet,58,0,14
+Fairness (S1),BFKM,40,0,32
+Fairness (S1),CCF,30,3,39
+Fairness (S1),PP-NFP,44,27,1
+Fairness (S1),PP-Gini,36,30,6
+Fairness (S1),Rawlsian,34,8,30
+Fairness (S2),Fairlet,60,0,12
+Fairness (S2),BFKM,51,0,21
+Fairness (S2),CCF,29,3,40
+Fairness (S2),PP-NFP,40,27,5
+Fairness (S2),PP-Gini,31,30,11
+Fairness (S2),Rawlsian,38,8,26
